@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://44.210.129.47:8081/repository/TDBank-dev-fe-snapshot/</url>
+	      <url>http://44.210.129.47:8081/repository/TDBank-dev-fe-mix/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
